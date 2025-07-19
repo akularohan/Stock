@@ -29,11 +29,13 @@ It leverages **RAG (Retrieval-Augmented Generation)** to analyze historical fina
 
 ## 📷 Screenshots
 
-### 🔵 Dashboard UI
-![Dashboard UI](assets/dashboard.png)
-
 ### 🟢 AI Inference Output
-![AI Inference Example](assets/ai_output.png)
+<img width="1892" height="724" alt="Image" src="https://github.com/user-attachments/assets/38031288-cc85-472f-9c06-949083320642" />
+
+<img width="1893" height="367" alt="Image" src="https://github.com/user-attachments/assets/d35e91a9-4b6b-4086-add4-7a0c9c8a81b8" />
+
+83320642" />
+
 
 ---
 
