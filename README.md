@@ -42,18 +42,19 @@ It leverages **RAG (Retrieval-Augmented Generation)** to analyze historical fina
 ## 🛠️ Getting Started
 
 ### 1. Clone My Repository
+git clone <repo-link>  
 
-# Clone my repo
-git clone <repo-link>
 cd <repo-folder>
 
 ### 2. Backend Setup
-pip install -r requirements.txt
-# Add your Groq API key in the configuration
+pip install -r requirements.txt  
+
 python server.py
 
 ### 3. Frontend Setup
-cd frontend
-npm install
+cd frontend  
+
+npm install  
+
 npm start
 
