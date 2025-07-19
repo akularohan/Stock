@@ -15,22 +15,22 @@ Designed for investors, analysts, and financial researchers, **NiveshAi** delive
 ## 🚀 Key Features
 
 - 🕵️ **Web Scraping:**  
-  - ◯ **Efficiently extracts** up to **4 years of financial data** directly from **Screener.in**, **eliminating reliance on paid APIs**.
+  - Efficient extraction of up to **4 years of financial data** directly from **Screener.in**, removing dependency on paid APIs.
 
 - 🧠 **AI-Powered Analysis (RAG Framework):**  
-  - ◯ **Generates deep, contextual insights** on:
-    - ◯ **Historical company performance**
-    - ◯ **Potential risk factors**
-    - ◯ **Key financial indicators and trends**
+  - Generates comprehensive, contextual insights including:
+    - Historical company performance
+    - Potential risk factors
+    - Key financial indicators and trends
 
 - 💻 **Modern Tech Stack:**  
-  - ◯ **Frontend:** **React.js** for a **responsive and dynamic UI**  
-  - ◯ **Backend:** **FastAPI (Python)** for **high-performance APIs**  
-  - ◯ **AI Model:** Integrated via **Groq API**, leveraging **cutting-edge LLMs**
+  - **Frontend:** Developed using **React.js** for a responsive and dynamic interface  
+  - **Backend:** Powered by **FastAPI (Python)** for scalable, high-performance APIs  
+  - **AI Model:** Integrated via the **Groq API**, utilizing advanced LLM capabilities
 
 - ✅ **API-Free Stock Data Acquisition:**  
-  - ◯ **Bypasses third-party APIs** by scraping data directly from **public, verified sources**.
-  - 
+  - Enables direct data scraping from publicly available and verified sources, ensuring complete autonomy from third-party APIs.
+
 ---
 
 ## 📷 Screenshots
