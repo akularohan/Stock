@@ -15,29 +15,28 @@ Designed for investors, analysts, and financial researchers, **NiveshAi** delive
 ## 🚀 Key Features
 
 - 🕵️ **Web Scraping:**  
-  Efficiently extracts up to **4 years of financial data** directly from **Screener.in**, eliminating reliance on paid APIs.
+  - ◯ **Efficiently extracts** up to **4 years of financial data** directly from **Screener.in**, **eliminating reliance on paid APIs**.
 
 - 🧠 **AI-Powered Analysis (RAG Framework):**  
-  Delivers in-depth, contextual insights on:
-  - Historical company performance
-  - Potential risk factors
-  - Critical financial indicators and trends
+  - ◯ **Generates deep, contextual insights** on:
+    - ◯ **Historical company performance**
+    - ◯ **Potential risk factors**
+    - ◯ **Key financial indicators and trends**
 
 - 💻 **Modern Tech Stack:**  
-  - **Frontend:** React.js (for a responsive and dynamic UI)  
-  - **Backend:** FastAPI (Python) for high-performance APIs  
-  - **AI Model:** Integrated via **Groq API**, leveraging cutting-edge LLMs
+  - ◯ **Frontend:** **React.js** for a **responsive and dynamic UI**  
+  - ◯ **Backend:** **FastAPI (Python)** for **high-performance APIs**  
+  - ◯ **AI Model:** Integrated via **Groq API**, leveraging **cutting-edge LLMs**
 
 - ✅ **API-Free Stock Data Acquisition:**  
-  Bypasses third-party APIs by scraping data directly from public, verified sources.
-
+  - ◯ **Bypasses third-party APIs** by scraping data directly from **public, verified sources**.
+  - 
 ---
 
 ## 📷 Screenshots
 
 ### 🟢 AI Inference Output
 <img width="1892" height="724" alt="AI Output" src="https://github.com/user-attachments/assets/38031288-cc85-472f-9c06-949083320642" />
-
 <img width="1893" height="367" alt="AI Output" src="https://github.com/user-attachments/assets/d35e91a9-4b6b-4086-add4-7a0c9c8a81b8" />
 
 ---
@@ -59,7 +58,7 @@ pip install -r requirements.txt
 
 python server.py
 
-###4. Frontend Setup
+### 4. Frontend Setup
 cd frontend
 
 npm install
