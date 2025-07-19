@@ -8,24 +8,28 @@ It leverages **RAG (Retrieval-Augmented Generation)** to analyze historical fina
 ## 📹 Demo Video
 [![Watch the Demo](http://img.youtube.com/vi/2Sv1xANnG_Q/maxresdefault.jpg)](https://youtu.be/2Sv1xANnG_Q)
 
----
 
-## 🚀 Features
-- 🕵️ **Web Scraping:** Fetches financial data from Screener.in (last 4 years of data).
-- 🧠 **AI Analysis via RAG:**  
-  Generates a comprehensive analysis:
-  - Company performance
-  - Risk factors
-  - Key financial insights
-- 🖥️ **Tech Stack:**
-  - **Frontend:** React.js
-  - **Backend:** FastAPI (Python)
-  - **AI:** Uses Groq API (LLM powered)
 
-- ✅ **Zero API Dependency for Stock Data:**  
-  Scrapes data directly from publicly available sources.
+## 🚀 Key Features
 
----
+- 🕵️ **Web Scraping :**  
+  Efficiently extracts up to **4 years of financial data** directly from **Screener.in**, eliminating reliance on paid APIs.
+
+- 🧠 **AI-Powered Analysis (RAG Framework):**  
+  Delivers in-depth, contextual insights on:
+  - Historical company performance
+  - Potential risk factors
+  - Critical financial indicators and trends
+
+- 💻 **Modern Tech Stack:**  
+  - **Frontend:** React.js (for a responsive and dynamic UI)  
+  - **Backend:** FastAPI (Python) for high-performance APIs  
+  - **AI Model:** Integrated via **Groq API**, leveraging cutting-edge LLMs
+
+- ✅ **API-Free Stock Data Acquisition:**  
+  Bypasses third-party APIs by scraping data directly from public, verified source.
+
+
 
 ## 📷 Screenshots
 
@@ -34,17 +38,12 @@ It leverages **RAG (Retrieval-Augmented Generation)** to analyze historical fina
 
 <img width="1893" height="367" alt="Image" src="https://github.com/user-attachments/assets/d35e91a9-4b6b-4086-add4-7a0c9c8a81b8" />
 
-83320642" />
-
 
 ---
 
 ## 🛠️ Getting Started
 
 ### 1. Clone My Repository
-git clone <repo-link>  
-
-cd <repo-folder>
 
 ### 2. Backend Setup
 pip install -r requirements.txt  
